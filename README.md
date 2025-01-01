@@ -1,6 +1,6 @@
 # Distributed Logging System using Kafka, Fluentd and ElasticSearch database storage
 
-###This project aims to streamline the collection and storage of logs from several different microservices 
+This project aims to streamline the collection and storage of logs from several different microservices 
 
 ## System Architecture
 ![System Architecture Diagram](architecture.png)
