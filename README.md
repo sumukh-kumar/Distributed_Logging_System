@@ -4,9 +4,11 @@ This project aims to streamline the collection and storage of logs from several 
 
 ## System Architecture
 ![System Architecture Diagram](architecture.png)
-To run fluent open 3 instances fluent package command line with admin permission 
+
 
 ## How to Run
+
+To run fluent open 3 instances fluent package command line with admin permission 
 
 start the fluent service :
     fluentd start fluentdwinsvc
