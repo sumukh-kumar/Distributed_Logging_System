@@ -1,0 +1,16 @@
+version: "3.9"
+services:
+  node1:
+    build: ./docker
+    environment:
+      NODE_ID: 1
+
+  node2:
+    build: ./docker
+    environment:
+      NODE_ID: 2
+
+  node3:
+    build: ./docker
+    environment:
+      NODE_ID: 3
